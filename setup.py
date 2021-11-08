@@ -17,7 +17,6 @@ setuptools.setup(
     },
     classifiers=[
         "Topic :: Software Development :: Build Tools",
-        "Classifier: Environment :: Console",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
